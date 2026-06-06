@@ -15,3 +15,7 @@ The generated site will be in `_out/html-multi/`.
 - 手動で追加したもの
   - serve.py (default link を修正)
   - .gitignore
+  - prepare-pages.sh
+    ```bash
+    chmod +x prepare-pages.sh && ls -l prepare-pages.sh
+    ```
