@@ -1,0 +1,1 @@
+window.docContents[93].resolve({"/Introduction/#My-Book--Introduction":{"contents":"Lean is a programming language and theorem prover. Here is a simple function that doubles a natural number:\n\ndef double (n : Nat) : Nat := n + n\n\n\n日本語のテスト\n\n\n","context":"My Book","header":"1. Introduction","id":"/Introduction/#My-Book--Introduction"}});

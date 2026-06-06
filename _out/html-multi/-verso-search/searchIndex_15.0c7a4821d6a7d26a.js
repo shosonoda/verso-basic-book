@@ -1,0 +1,1 @@
+window.docContents[15].resolve({"/Next-Steps/#My-Book--Next-Steps":{"contents":"This chapter is a placeholder. Replace it with your own content!\n\n\n","context":"My Book","header":"2. Next Steps","id":"/Next-Steps/#My-Book--Next-Steps"}});

@@ -1,0 +1,1 @@
+window.docContents[208].resolve({"/#My-Book":{"contents":"This is a short book written with Verso's Manual genre.\n\n\n\n\n\n","context":"","header":"My Book","id":"/#My-Book"}});
